@@ -438,8 +438,8 @@ table.def {}
 /* shop
 -------------------------*/
 .googleMap{
-	width:310px;
-	float:right;
+	width:650px;
+	float:left;
 	background:url(../images/common/bg_h4.gif) repeat center top;
 	padding:19px;
 	margin-top:10px;
