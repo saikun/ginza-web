@@ -150,7 +150,7 @@ tr,th,td {}
 		margin: 0 auto;
 		height: 52px;
 	}
-	#gl-nav .nav ul { height: 52px; float:right;}
+	#gl-nav .nav ul { height: 52px; float:left;}
 	#gl-nav .nav li { float: left;}
 
 		
