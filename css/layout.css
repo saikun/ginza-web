@@ -493,30 +493,7 @@ table.def {}
 		.reasonArea dl dt{ margin-bottom:10px;}
 		.reasonArea dl dd{ overflow:hidden;}
 		
-/* grand-menu
--------------------------*/
-.grandArea{
-	background:url(../images/common/bg_h4.gif) repeat center top;
-	padding:19px;
-	margin-bottom:30px;
-}
-	.grandArea .InBox{
-		padding:10px 10px 10px 10px;
-		min-height:500px;
-		box-shadow:rgba(179, 45, 0, 0.729412) 0px 0px 5px 1px;
-		-webkit-box-shadow:rgba(179, 45, 0, 0.729412) 0px 0px 5px 1px;
-		-moz-box-shadow:rgba(179, 45, 0, 0.729412) 0px 0px 5px 1px;
-	}
-		.grandArea .InBox.Box01{ background:url(../images/grand-menu/bg01.jpg) no-repeat left top #fff; }
-		.grandArea .InBox.Box02{ background:url(../images/grand-menu/bg02.jpg) no-repeat left top #fff; }
-		.grandArea .InBox.Box03{ background:url(../images/grand-menu/bg03.jpg) no-repeat left top #fff; }
-		.grandArea .InBox.Box04{ background:url(../images/grand-menu/bg04.jpg) no-repeat left top #fff; }
-	.grandArea .InBox .title{　margin:15px 0px 0px 15px;　}
-	.grandArea .InBox .tableArea{
-		width:50%;
-		margin:0px 0px 0px 305px;
-	}
-		.grandArea .InBox .tableArea h3{ margin-top:0!important;}
+
 
 /* menu
 -------------------------*/
